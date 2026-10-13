@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Leandro 👋
 
-<!--
-**leandrobelo000-afk/leandrobelo000-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer focused on LLM applications (RAG, agents, automation), with a background in Architecture & BIM.
+I build AI systems for real-world problems, especially in architecture, construction and document processing.
 
-Here are some ideas to get you started:
+## 🔧 Stack
+Python · FastAPI · LLM APIs (OpenAI, Anthropic) · RAG · PostgreSQL/pgvector · Docker · Git · PyTorch
+Revit · SketchUp · AutoCAD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured projects
+- **[Urban Legislation Assistant](link)**: RAG assistant that answers building-code questions citing the exact article. *(in progress)*
+- **[AI Fiscal Assistant](https://github.com/[usuario]/ai-fiscal-assistant)**: invoice reading with OCR + vision LLM, exporting to Excel.
+- **[SketchUp Parametric Generator](https://github.com/[usuario]/sketchup-parametric-generator)**: AI-assisted parametric modeling for SketchUp.
+
+## 📫 Contact
+[LinkedIn](www.linkedin.com/in/leandro-belo) · leandrobelo000@gmail.com · Maceió, Brazil (open to remote)
