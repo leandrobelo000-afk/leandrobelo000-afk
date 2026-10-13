@@ -13,4 +13,4 @@ Revit · SketchUp · AutoCAD
 - **[SketchUp Parametric Generator](https://github.com/[usuario]/sketchup-parametric-generator)**: AI-assisted parametric modeling for SketchUp.
 
 ## 📫 Contact
-[LinkedIn](www.linkedin.com/in/leandro-belo) · leandrobelo000@gmail.com · Maceió, Brazil (open to remote)
+[LinkedIn](leandro-belo) · leandrobelo000@gmail.com · Maceió, Brazil (open to remote)
