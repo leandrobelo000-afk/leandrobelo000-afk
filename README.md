@@ -5,7 +5,7 @@ I build AI systems for real-world problems, especially in architecture, construc
 
 ## 🔧 Stack
 Python · FastAPI · LLM APIs (OpenAI, Anthropic) · RAG · PostgreSQL/pgvector · Docker · Git · PyTorch
-Revit · SketchUp · AutoCAD
+· Revit · SketchUp · AutoCAD
 
 ## 🚀 Featured projects
 - **[Urban Legislation Assistant](link)**: RAG assistant that answers building-code questions citing the exact article. *(in progress)*
