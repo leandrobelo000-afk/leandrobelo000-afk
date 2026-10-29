@@ -8,9 +8,9 @@ Python · FastAPI · LLM APIs (OpenAI, Anthropic) · RAG · PostgreSQL/pgvector 
 · Revit · SketchUp · AutoCAD
 
 ## 🚀 Featured projects
-- **[Urban Legislation Assistant](link)**: RAG assistant that answers building-code questions citing the exact article. *(in progress)*
-- **[AI Fiscal Assistant](https://github.com/[usuario]/ai-fiscal-assistant)**: invoice reading with OCR + vision LLM, exporting to Excel.
-- **[SketchUp Parametric Generator](https://github.com/[usuario]/sketchup-parametric-generator)**: AI-assisted parametric modeling for SketchUp.
+- **[Urban Legislation Assistant]**: RAG assistant that answers building-code questions citing the exact article. *(in progress)*
+- **[AI Fiscal Assistant](https://github.com/leandrobelo000-afk/ai-fiscal-assistant.git)**: invoice reading with OCR + vision LLM, exporting to Excel.
+- **[SketchUp Parametric Generator](https://github.com/leandrobelo000-afk/sketchup-parametric-generator.git)**: AI-assisted parametric modeling for SketchUp.
 
 ## 📫 Contact
 [LinkedIn](leandro-belo) · leandrobelo000@gmail.com · Maceió, Brazil (open to remote)
